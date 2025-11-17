@@ -1,28 +1,17 @@
-# VyomGarud - Web Developer Intern Assignment
+# RapidQuest Hiring Challenge – Guddoo Kumar
 
-This project is created as part of the **VyomGarud Web Developer Internship Assessment**.  
-The goal is to showcase skills in **HTML, CSS, and JavaScript** by building a fully responsive, interactive web interface.
+This project is built for the RapidQuest Solutions 48-Hour Hackathon.
 
----
+## Tech Stack
+- React.js
+- Normal CSS
+- Responsive UI
 
-## 🚀 Features
+## Features
+- Fully responsive website  
+- Modern UI  
+- Clean code  
+- Sections: Hero, Rules, FAQ, Timeline, and more  
+- Footer credit: "Created by Guddoo Kumar"
 
-### ✔ Fully Responsive Design  
-Works smoothly on mobile, tablet, and desktop devices.
-
-### ✔ Interactive Tabs  
-Switch between multiple tab contents using JavaScript.
-
-### ✔ Clean & Structured UI  
-Modern layout with separate CSS modules for each section.
-
-### ✔ Reusable Components  
-Navbar, Hero, FAQ, Cards, and Footer are fully modular.
-
-### ✔ Pure HTML, CSS & JS  
-No frameworks or libraries used.
-
----
-
-## 📁 Folder Structure
-
+## How to Run
