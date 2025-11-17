@@ -1,0 +1,45 @@
+.hero {
+  text-align: left;
+  padding: 80px 10%;
+  background: linear-gradient(180deg, #0f172a, #0c1220);
+}
+
+.subheading {
+  color: #60a5fa;
+  font-size: 14px;
+  letter-spacing: 2px;
+}
+
+.title {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-top: 10px;
+}
+
+.title span {
+  color: #a78bfa;
+}
+
+.description {
+  margin-top: 20px;
+  font-size: 16px;
+  max-width: 650px;
+  color: #cbd5e1;
+}
+
+.details {
+  display: flex;
+  margin-top: 40px;
+  gap: 40px;
+}
+
+.details div h4 {
+  font-size: 16px;
+  color: #60a5fa;
+}
+
+.details div p {
+  font-size: 15px;
+  color: #e2e8f0;
+}

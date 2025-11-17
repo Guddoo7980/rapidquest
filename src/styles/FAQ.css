@@ -1,0 +1,26 @@
+.faq {
+  margin-top: 50px;
+}
+
+.faq h2 {
+  font-size: 28px;
+  color: #4ade80;
+  margin-bottom: 20px;
+}
+
+.faq-box {
+  background: #0f172a;
+  padding: 25px;
+  border-radius: 10px;
+  border: 1px solid #1e293b;
+}
+
+.faq-box p {
+  margin: 15px 0;
+  font-size: 16px;
+  color: #e2e8f0;
+}
+
+.faq-box strong {
+  color: #a5b4fc;
+}

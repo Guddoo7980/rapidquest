@@ -1,0 +1,25 @@
+/* Global Styles */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0c1220;
+  font-family: Arial, sans-serif;
+  color: #ffffff;
+}
+
+.app {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+section {
+  padding: 60px 10%;
+}
+
+h1, h2, h3, h4, p {
+  margin: 0;
+}
+
+ul {
+  padding-left: 20px;
+}
